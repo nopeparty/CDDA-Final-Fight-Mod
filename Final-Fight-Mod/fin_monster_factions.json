@@ -1,0 +1,9 @@
+[
+  {
+    "type": "MONSTER_FACTION",
+    "name": "final",
+    "friendly": [  ],
+    "neutral": [ "human", "player", "small_animal", "fish" ],
+    "by_mood": [  ]
+  }
+]

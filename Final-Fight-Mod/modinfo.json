@@ -1,0 +1,9 @@
+{
+  "type": "MOD_INFO",
+  "ident": "Final_Fight",
+  "name": "Final Fight enemies",
+  "authors": [ "nopeparty" ],
+  "description": "Adds some monsters from Final Fight. Pretty much unbalance and chaotic. Still in progress.",
+  "category": "creatures",
+  "dependencies": ["dda"]
+}

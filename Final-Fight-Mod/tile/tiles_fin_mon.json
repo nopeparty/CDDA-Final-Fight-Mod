@@ -1,0 +1,30 @@
+{
+  "type": "mod_tileset",
+  "compatibility": [ "MSX++DEAD_PEOPLE", "UNDEAD_PEOPLE", "MX+(Overhaul)", "MshockXottoplus12" ],
+  "tile_info": [
+    {
+      "height": 32,
+      "width": 32
+    }
+  ],
+  "tiles-new": [
+    {
+      "file": "tile/Final-fight.png",
+      "tiles": 
+      [
+        { "id": "mon_fin_eliza",   "fg": 0},
+		{ "id": "mon_fin_may",   "fg": 2},
+		{
+          "id": "corpse_mon_fin_eliza",
+          "fg": 1,
+          "rotates": false
+        },
+		{
+          "id": "corpse_mon_fin_may",
+          "fg": 3,
+          "rotates": false
+        }
+      ]
+    }
+  ]
+}
