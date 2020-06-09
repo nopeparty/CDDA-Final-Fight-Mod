@@ -6,10 +6,7 @@
     "monsters" : [
       { "monster" : "mon_fin_eliza", "freq" : 150, "cost_multiplier" : 0, "pack_size": [1,1] },
 	  { "monster" : "mon_fin_may", "freq" : 150, "cost_multiplier" : 0, "pack_size": [1,1] }
-      ],
-    "replace_monster_group" : true,
-    "new_monster_group_id" : "GROUP_ZOMBIE_MID",
-    "replacement_time" : 14, "//" : "(replacement_time * difficulty)DAYS *(SEASON_LENGTH / 14)"
+      ]
   }
    ,{
     "type":"monstergroup",
